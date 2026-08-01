@@ -2,6 +2,8 @@
 
 An Othello rules and search library with bitboards and complete pass handling.
 
+You can play against it compiled to Wasm here: https://thegustafson.com/games/othello
+
 ## Use it
 
 Add the crate to your project:
